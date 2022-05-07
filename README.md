@@ -41,6 +41,8 @@ Source: [G. Castel](https://castel.dev/post/lecture-notes-2/)
 
 ## Usage
 
+![inkscape-quickstyle-small.gif](inkscape-quickstyle-small.gif)
+
 1. Select an Inkscape object or a group of objects (Bézier drawing, rectangle, ellipse, etc.)
 2. Open the `Quick Style...` extension panel (if it is not already open)
 3. Enter a `Style Code` in the panel's text field (following Gilles Castel's style conventions codes)
