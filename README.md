@@ -2,7 +2,7 @@
 
 Quickly apply [predefined line styles](#credits) and shape fills to inkscape drawings.
 
- ![inkscape-quickstyle-small.gif](file:///Users/liebling/Documents/research/programming/python/inkscape-extensions/inkscape-quickstyle/inkscape-quickstyle-small.gif)
+ ![inkscape-quickstyle-small.gif](inkscape-quickstyle-small.gif)
 
 ## Description
 
@@ -16,16 +16,16 @@ This plugin, which can be left open while drawing, allows to quickly adjust the 
 Text codes are short 1- to 3-letter codes made of one or more letters, taken from each line in the following table:
 
 
-Attribute               |                  |        |               |
----                     | ---              | ---    | ---           | ---
-Stroke style            | solid            | dotted | dashed        |
-                        | `s`              | `d`    | `e`           |
-Stroke Thickness        | normal           | thick  | very thick    |
-                        | `default: empty` | `g`    | `h`           |
-Arrow heads             | none             | end    | start and end |
-                        | `default: empty` | `a`    | `x`           |
-Shape Fill              | transparent      | white  | gray          | black
-                        | `default: empty` | `p`    | `f`           | `b`
+Attribute         |                  |        |               |       |
+---               | ---              | ---    | ---           | ---   |
+Stroke style      | solid            | dotted | dashed        |       |
+                  | `s`              | `d`    | `e`           |       |
+Stroke Thickness  | normal           | thick  | very thick    |       |
+                  | `default: empty` | `g`    | `h`           |       |
+Arrow heads       | none             | end    | start and end |       |
+                  | `default: empty` | `a`    | `x`           |       |
+Shape Fill        | transparent      | white  | gray          | black |
+                  | `default: empty` | `p`    | `f`           | `b`   |
 
 ![Code description](default-styles-keys2_small.png)
 Source: [G. Castel](https://castel.dev/post/lecture-notes-2/)
