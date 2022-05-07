@@ -32,11 +32,12 @@ Source: [G. Castel](https://castel.dev/post/lecture-notes-2/)
 
 ### Examples:
 
-solid line of normal thickness: `s`
-solid line of normal thickness with arrow head at the end: `sa`
-solid line of normal thickness with arrow heads at both ends: `sx`
-object with thick dotted line and gray fill: `dgf`
-etc.
+| Styling                                                       | Code  |
+| ---                                                           | ---   |
+| solid line of normal thickness:                               | `s`   |
+| solid line of normal thickness with arrow head at the end:    | `sa`  |
+| solid line of normal thickness with arrow heads at both ends: | `sx`  |
+| object with thick dotted line and gray fill:                  | `dgf` |
 
 ## Usage
 
